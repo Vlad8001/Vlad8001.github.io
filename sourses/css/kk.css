@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(0deg, #f1b309 0%, #fbff0f 100%);
+}
+.navbar-brand{
+    font-style: italic;
+    font-weight: 1000;
+}
+header img{
+    width: 45px;
+    padding-right: 10px;
+    margin-left: 10px;
+} 
+section {
+    margin-top: 20px;
+}
+section p{
+    font-style: italic;
+}
+
+
+
+
